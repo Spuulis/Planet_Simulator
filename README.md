@@ -1,1 +1,1 @@
-# Planet_Simulator
+# Planet Simulator
